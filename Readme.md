@@ -8,4 +8,4 @@
 ![image](diagram.png)
 
 ## Реализация программы на языке C#
-![image](VScode.png)
+![image](VSСode.png)
